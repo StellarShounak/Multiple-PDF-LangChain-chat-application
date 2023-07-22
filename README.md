@@ -14,7 +14,7 @@ PDF-Chatbot Workflow:
 
 3. Language Model Utilization: The heart of the application lies in leveraging a powerful language model. By employing this sophisticated AI model, the chatbot can generate vector representations (embeddings) of the segmented text chunks.
 
-#Run this app by following steps : (I can't share the deployed link Due to Open AI access limits) 
+#Run this app by following the steps : (I can't share the deployed link Due to Open AI access limits) 
 
 1. Put your Open AI secret Key in the .env file
 2. put your HuggingFace API token in the .env file
